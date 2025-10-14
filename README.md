@@ -1,4 +1,4 @@
-# Trello API Automation - Interview Assignment
+# Trello API Automation
 
 ## Overview
 This project automates a Trello workflow using REST API requests. It simulates a task board where cards move through workflow stages (lists) and validates that everything works correctly.
